@@ -43,7 +43,7 @@ x-status: defunct
 x-shutdown-date: '2021-01-15'
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-09-15'
+modified: '2026-09-16'
 tags:
 - Company
 - Marketplace
@@ -54,6 +54,7 @@ tags:
 - E-Commerce
 - Blockchain
 - Open-Source
+- Defunct
 tags_raw:
 - Company
 - Marketplace
@@ -64,6 +65,7 @@ tags_raw:
 - E-commerce
 - Blockchain
 - Open Source
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
