@@ -64,6 +64,45 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-OB1 is a company surfaced as a portfolio company of union-square-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: union-square-ventures — https://ob1.io
+OB1 was the venture-backed company that built and stewarded OpenBazaar, a fully decentralized, peer-to-peer marketplace protocol for buying and selling goods and services directly between users using Bitcoin and other cryptocurrencies, with no central platform, listing fees, or intermediaries. Founded on the earlier OpenBazaar project and funded in 2015 by Union Square Ventures and Andreessen Horowitz, OB1 developed the OpenBazaar desktop and mobile clients, the underlying protocol built on IPFS and Bitcoin, and hosted supporting services. OB1 announced the closure of its servers on 15 January 2021 and the company is no longer operating; this profile is retained for historical and portfolio-graph completeness. The open-source code remains publicly archived under the OpenBazaar GitHub organization.
+
+**Areas:** Company · Marketplace · Decentralized · Cryptocurrency · Bitcoin · Peer-to-Peer · E-Commerce · Blockchain · Open Source · Defunct
+
+## OB1 on APIs.io (historical record)
+
+Everything profiled for OB1 is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ob1/](https://apis.io/providers/ob1/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ob1 Domain Security](https://apis.io/security/ob1/ob1-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ob1.io)
+- [GitHub](https://github.com/OpenBazaar)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for OB1: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ob1/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
